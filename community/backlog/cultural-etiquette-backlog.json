@@ -240,7 +240,7 @@
     "note": "中央は神様の通り道とされる。",
     "id": 27,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "situation": "温泉 2",
@@ -249,7 +249,7 @@
     "note": "共同浴場の基本ルール。",
     "id": 28,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "situation": "会議 2",
@@ -258,7 +258,7 @@
     "note": "合意形成を重視する文化。",
     "id": 29,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "situation": "列に並ぶ時 2",
@@ -267,7 +267,7 @@
     "note": "駅・店頭では順番厳守。",
     "id": 30,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "situation": "贈り物 2",
@@ -276,7 +276,7 @@
     "note": "謙遜表現が好まれる。",
     "id": 31,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "situation": "遅刻時 2",
@@ -284,7 +284,7 @@
     "dont": "無連絡で遅れて言い訳を続ける",
     "note": "先に謝罪が基本。",
     "id": 32,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
