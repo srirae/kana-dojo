@@ -141,7 +141,7 @@
     "note": "場の一体感を重視。",
     "id": 16,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "situation": "公共スペース 1",
@@ -150,7 +150,7 @@
     "note": "ゴミ箱が少ない地域がある。",
     "id": 17,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "situation": "お辞儀 1",
@@ -158,7 +158,7 @@
     "dont": "笑いながら浅く頭を下げる",
     "note": "丁寧さは姿勢で伝わる。",
     "id": 18,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
