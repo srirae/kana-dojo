@@ -303,7 +303,11 @@
   ],
   "correctIndex": 0
 },
+<<<<<<< 24f1000743-patch-1
 {
+=======
+  {
+>>>>>>> main
   "question": "What is the name of Japan's highest mountain?",
   "difficulty": "medium",
   "answers": [
