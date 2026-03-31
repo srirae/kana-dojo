@@ -11,6 +11,7 @@ This file provides comprehensive guidance for AI coding assistants (GitHub Copil
 ## Shell Environment
 
 **Windows PowerShell**: use `;` 
+
 **Linux/macOS/WSL**: use `&&`
 
 <!-- examples commented out: `npm run lint; npm run test` -->
